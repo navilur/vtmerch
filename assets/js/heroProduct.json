@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Army Green Active Short Sleeve",
+    "price": 34.95,
+    "sale": 34.95,
+    "image": "assets/img/img (9).png"
+  },
+  {
+    "id": 2,
+    "name": "Army Green Active Short Sleeve",
+    "price": 34.95,
+    "sale": 34.95,
+    "image": "assets/img/img (10).png"
+  },
+  {
+    "id": 3,
+    "name": "Army Green Active Short Sleeve",
+    "price": 34.95,
+    "sale": 34.95,
+    "image": "assets/img/img (11).jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Army Green Active Short Sleeve",
+    "price": 34.95,
+    "sale": 34.95,
+    "image": "assets/img/img (11).png"
+  },
+  {
+    "id": 5,
+    "name": "Army Green Active Short Sleeve",
+    "price": 34.95,
+    "sale": 34.95,
+    "image": "assets/img/img (10).png"
+  },
+  {
+    "id": 6,
+    "name": "Army Green Active Short Sleeve",
+    "price": 34.95,
+    "sale": 34.95,
+    "image": "assets/img/img (11).jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Army Green Active Short Sleeve",
+    "price": 34.95,
+    "sale": 34.95,
+    "image": "assets/img/img (11).png"
+  },
+  {
+    "id": 8,
+    "name": "Army Green Active Short Sleeve",
+    "price": 34.95,
+    "sale": 34.95,
+    "image": "assets/img/img (11).png"
+  }
+]
